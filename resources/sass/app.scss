@@ -1,4 +1,6 @@
-//
-body{
-    background-color: pink;
-}
+@import 'partials/container';
+@import 'partials/reset';
+@import 'partials/typhograpy';
+@import 'partials/variables';
+@import 'partials/header';
+@import'partials/home';
